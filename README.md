@@ -1,4 +1,4 @@
-## Hi there 👋
+## Personna used for testing GITHUB Integration with Connected Software Engineer Role in the 3DEXPERIENCE Platform
 
 <!--
 **MarkoPolo3DEXP/MarkoPolo3DEXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
